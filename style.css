@@ -1,0 +1,26 @@
+div > p{
+    display: inline-flex;
+}
+.box1{
+    height: 70px;
+    width: 345px;
+    border: 2px solid black;
+}
+div.box1{
+    display: inline-flex;
+    padding: 7px;
+    padding-right: 0px;
+}
+div .home1{
+    background-color: gray;
+    padding: 10px;
+    align-items: center;
+}
+div .op1{
+    min-width: 50px;
+    background-color: gainsboro;
+    padding: 10px;
+    color: blue;
+    border-left: 1px solid blue ;
+    justify-content: center;
+}
